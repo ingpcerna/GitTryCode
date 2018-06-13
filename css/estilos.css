@@ -16,7 +16,13 @@ header
 
 .campo 
 {
-    background: azure;
+    background: #c0392b;
+        
+}
+
+.parrafo 
+{
+    background: burlywood;
         
 }
 
