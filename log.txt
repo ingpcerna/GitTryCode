@@ -1,0 +1,11 @@
+commit 4a8c2aea82ebd95a303a02083d4bb8ec1ce22691
+Author: PDEV <ingpcerna@gmail.com>
+Date:   Wed Jun 13 08:05:29 2018 -0600
+
+    Modificacion a index y css
+
+commit c91dacf55e74ee0fa634a27433a003b390f68cdd
+Author: PDEV <ingpcerna@gmail.com>
+Date:   Wed Jun 13 08:01:43 2018 -0600
+
+    inicializacion

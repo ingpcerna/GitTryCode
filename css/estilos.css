@@ -20,6 +20,14 @@ header
         
 }
 
+h3{
+font-style: italic;
+font-size: 20px;
+color: #c0392b;
+text-decoration-color: #c0392b;
+
+}
+
 .parrafo 
 {
     text-align: center;
